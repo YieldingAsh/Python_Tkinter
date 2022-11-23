@@ -1,0 +1,5 @@
+print ('Digame su nombre')
+nombredeUsuario = input('Ingrese su Nombre: ')
+print ('Digame su edad')
+edadUsuario = input('Ingrese su Edad: ')
+print('El nombre del usuario es',nombredeUsuario,'tiene',edadUsuario,'de edad')
